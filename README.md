@@ -19,5 +19,5 @@ Im a 16 year old student, dev. and CEO of [Athenic](https://athenic.at).
   - Diverse Python projects
   
   
-If you want to know more about me, contact me at cerny@athenic.at!
+If you want to know more about me, find me at https://patrickcerny.at or contact me at cerny@athenic.at!
 
