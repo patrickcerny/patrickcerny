@@ -16,3 +16,4 @@ Altough my first love was the Frontend, I still have a little crush on developin
 I've made e. g. [a python bot](https://github.com/patrickcerny/typewriterBot),a ["private Instagram clone in React"](https://github.com/patrickcerny/anp_schach_oop) and lots of other stuff. 
   
 If you want to know more about me, find me at https://patrickcerny.at or contact me at cerny@athenic.at!
+[![Patrick's github stats](https://github-readme-stats.vercel.app/api?username=patrickcerny)](https://github.com/patrickcerny/github-readme-stats)
