@@ -1,7 +1,7 @@
 [![Patrick's github stats](https://github-readme-stats.vercel.app/api?username=patrickcerny)](https://github.com/patrickcerny/)
 
 # Hey, Im Patrick!
-Im a 17 year old student, Full Stack Developer and CEO/Founder of [Athenic](https://athenic.at).
+Im a 18 year old student, Full Stack Developer and CEO/Founder of [Athenic](https://athenic.at).
 
 ## What have I done so far?
 So far, I've tried a lot of different stuff / technologies - but the one I kinda got stuck to is Web-Development, expecially with libraries/frameworks like React or Angular. If you want to look at the stuff I'm doing in my free time, just check my repos!
