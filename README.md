@@ -16,4 +16,4 @@ Altough my first love was the Frontend, I still have a little crush on developin
 ### Other stuff I tried
 I've made e. g. [a python bot](https://github.com/patrickcerny/typewriterBot), a ["private Instagram clone in React"](https://github.com/patrickcerny/friendstagram2.0) and lots of other stuff (most of them are sadly not open source, damn you companies!). 
   
-If you want to know more about me, find me at https://otiosum-austria.com or contact me at cerny@otiosum-austria.at!
+If you want to know more about me, find me at https://otiosum-austria.com or contact me at cerny@otiosum-austria.com!
