@@ -1,7 +1,7 @@
 [![Patrick's github stats](https://github-readme-stats.vercel.app/api?username=patrickcerny)](https://github.com/patrickcerny/)
 
 # Hey, Im Patrick!
-Im a 19 year old graduate from the HAK Bregenz and a Full Stack Developer at [GmG AG](https://www.gmg.biz/start/default.aspx).
+I'm a 19 year old graduate from the HAK Bregenz and a full stack feveloper at [GmG AG](https://www.gmg.biz/start/default.aspx).
 
 ## What have I done so far?
 So far, I've tried a lot of different stuff / technologies - but the one I kinda got stuck to is Web-Development, expecially with libraries/frameworks like React or Angular or even Blazor. If you want to look at the stuff I'm doing in my free time, just check my repos! Also, I'm the COP of [Otiosum](https://otiosum-austria.com), which makes me an official *EnTrePrenEur*!
