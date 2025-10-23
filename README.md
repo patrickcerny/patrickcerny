@@ -58,8 +58,9 @@ Full-stack developer at [GMG AG](https://www.gmg.biz/start/default.aspx) and Tec
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ## Projects & Experiments
+- [Office Am See e.U. - Webpage](https://github.com/patrickcerny/friendstagram2.0) – Simple Webpage for a Bookingkeeping Company
 - [typewriterBot](https://github.com/patrickcerny/typewriterBot) – Python automation bot
-- [friendstagram2.0](https://github.com/patrickcerny/friendstagram2.0) – Private Instagram-like app built with React
+- [friendstagram2.0](https://github.com/patrickcerny/office-am-see-page) – Private Instagram-like app built with React
 
 ## Get in Touch
-If you want to know more, visit [otiosum-austria.com](https://otiosum-austria.com) or reach out at cerny@otiosum-austria.com.
+If you want to know more, visit [my Website](https://cerny.app), [otiosum-austria.com](https://otiosum-austria.com) or reach out at cerny@otiosum-austria.com.
