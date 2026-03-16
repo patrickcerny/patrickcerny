@@ -7,7 +7,7 @@ Full-stack developer at [GMG AG](https://www.gmg.biz/start/default.aspx) and Tec
 </a>
 
 ## About Me
-- 21-year-old graduate of HAK Bregenz
+- 22-year-old graduate of HAK Bregenz
 - Co-founder and COP of [Otiosum](https://otiosum-austria.com)
 - Passionate about mathematical modelling, cryptography, and algorithm design
 - Always exploring new technologies and side projects
