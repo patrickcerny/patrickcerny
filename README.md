@@ -1,6 +1,6 @@
 # Patrick Cerny
 
-Full-stack developer at [GMG AG](https://www.gmg.biz/start/default.aspx) and Technical Mathematics / Software Engineering student at TU Vienna. I love translating abstract math into real-world software and building web applications that are fast, accessible, and enjoyable to use.
+Lead Software developer at [Bulldog Real Estate](https://www.bulldogrealestate.at/) and Technical Mathematics / Software Engineering student at TU Vienna. I love translating abstract math into real-world software and building web applications that are fast, accessible, and enjoyable to use.
 
 <a href="https://buymeacoffee.com/patrickcerny" target="_blank">
   <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="150" />
